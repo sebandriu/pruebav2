@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IlhSSDi9D6GGmup2xYsrgTM483k1CAkbENmElvupB6Im9BUjoOKJPpVBWKXqU549Aji1g0GS08NlAH0gsfkw0g==",
+  "dgSpecHash": "rnRzpMV+GtjE5LDiBg3r4+x/J3aPtrdNBFHtejUXUOOCXIYll3Df+vKmoS5FiO4IItTU3bW0eBb7quNJY4ZzjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\demo.csproj",
+  "projectFilePath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebaa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sebaa\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

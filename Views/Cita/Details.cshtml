@@ -4,7 +4,7 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1>Detalles de la Cita</h1>
 
 <div>
     <h4>Cita</h4>
@@ -37,6 +37,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model?.Id">Editar Cita <i class="bi bi-pencil"></i></a> 
+    <a asp-action="Index" class="btn btn-success">Devuelta a la lista <i class="bi bi-house-fill"></i></a>
 </div>

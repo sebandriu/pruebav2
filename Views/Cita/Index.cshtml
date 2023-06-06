@@ -4,12 +4,12 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Agenda de Citas</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-success">¡Agenda una cita proxima!<i class="bi bi-plus"></i></a>
 </p>
-<table class="table">
+<table class="table table-hover">
     <thead>
         <tr>
             <th>
@@ -43,9 +43,9 @@
                 @Html.DisplayFor(modelItem => item.Destinatarios.Nombre)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.Id"><i class="bi bi-pencil"></i> Editar</a> 
+                <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.Id"><i class="bi bi-list-check"></i> Detalles</a> 
+                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id"><i class="bi bi-trash"></i> Eliminar</a>
             </td>
         </tr>
 }

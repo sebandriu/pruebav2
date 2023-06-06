@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\demo.csproj": {}
+    "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\demo.csproj": {
+    "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\demo.csproj",
+        "projectUniqueName": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\demo.csproj",
+        "projectPath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\demo.csproj",
         "packagesPath": "C:\\Users\\sebaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\demo\\obj\\",
+        "outputPath": "C:\\Users\\sebaa\\OneDrive\\Escritorio\\prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
